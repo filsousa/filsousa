@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hello 👋
+I'm Filipe Leonardo de Sousa
+I'm a Chemical Engineer
+Fascinated with Data Science and Data Engineering
+Curious about technology and the world
+
 
 <!--
 **filsousa/filsousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
