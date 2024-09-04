@@ -1,8 +1,13 @@
-## Hello 👋
-I'm Filipe Leonardo de Sousa
-I'm a Chemical Engineer
-Fascinated with Data Science and Data Engineering
-Curious about technology and the world
+## Hello, I'm Filipe 👋
+📝I'm a Chemical Engineer and Safety Engineer <br />
+🔭Currently working as a Customer Success Manager <br />
+❤️Fascinated with Data Science and Data Engineering <br />
+🌱 I’m currently learning Data Science <br />
+
+
+## Contacts:
+[![image](https://github.com/user-attachments/assets/7317f1da-0267-4b0c-800a-2373e9b8e05c)](https://www.linkedin.com/in/filipel-sousa/)
+![image](https://github.com/user-attachments/assets/1137c2be-64c5-4119-9c45-9458d53801ce)
 
 
 <!--
